@@ -1,0 +1,36 @@
+.ui.borderless.topmenu.menu {
+  background-color: #09659a;
+  box-shadow: none;
+  border: none;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.ui.huge.icon.input {
+  width: 500px;
+}
+
+.grey-background {
+  background-color: #0585cb;
+  height: 450px;
+}
+
+img {
+  padding-top: 100px;
+  width: 430px;
+  height: 300px;
+}
+
+.white-background {
+  background-color: whitesmoke;
+  height: 1000px;
+}
+
+.ui.borderless.footer.menu {
+  background-color: #0585cb;
+  padding-top: 100px;
+  padding-bottom: 20px;
+  box-shadow: none;
+  border: none;
+  color: white;
+}
